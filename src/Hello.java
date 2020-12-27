@@ -8,6 +8,7 @@ public class Hello {
         if (mouse != 0 && weight / mouse < 1000) {
             System.out.println("Можно кормить кота");
             System.out.println("Можно кормить кота");
+            System.out.println("Можно кормить кота");
         }
     }
 }
